@@ -32,7 +32,7 @@ Some tools and skills
 
 My dog
 ------
-![My dog](my_dog.jpg)
+![My dog](files/my_dog.jpg)
 
 <!-- **Markdown generator**
 
