@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Patrick : ) this is my website. It's (supposed to be) a collection of my work and own musings. Feel free to contact me if you're interested in anything I've done!
+Hi! I'm Patrick : ) this is my website. It's (supposed to be) a collection of my work and own musings. It's _mostly_ academic stuff but I might end up posting other random things from time to time. Feel free to contact me if you're interested in anything I've done!
 
-I'm currently a Student
+I'm currently a student
 ------
-I'm currently a senior at Rice University studying to obtain my B.S. in Electrical Engineering. I've had coursework in: Signal Processing, Circuits, Machine Learning, Robotics, Computer Architecture, Digital Logic Design, Electronic Materials, Device Physics, and all the standard math and science courses you'd except out of an engineering student!
+I'm a senior at Rice University studying to obtain my B.S. in Electrical Engineering. I've had coursework in: Signal Processing, Circuits, Machine Learning, Robotics, Computer Architecture, Digital Logic Design, Electronic Materials, Device Physics, and all the standard math and science courses you'd except out of an engineering student!
 
 My favorite course was Linear Algebra : )
 
@@ -29,6 +29,10 @@ Some tools and skills
 1. **Programming Languages/Technologies:** Python, C, C++, PySpark, PyTorch, Matlab, HTML, CSS, SQL, Google Cloud Platform, git, EAGLE
 1. **Human Languages:** English (native), Mandarin Chinese, and I took a tiny bit of Korean and Russian
 1. **Other Software:** Autodesk Inventor, Blender, Maya, Photoshop, Aseprite, Lightroom, Sony Vegas (The best video editor)
+
+My dog
+------
+![My dog](my_dog.jpg)
 
 <!-- **Markdown generator**
 
