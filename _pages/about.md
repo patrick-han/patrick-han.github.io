@@ -32,7 +32,7 @@ Some tools and skills
 
 My dog
 ------
-![My dog](../files/my_dog.jpg)
+![My dog](https://patrick-han.github.io/files/my_dog.jpg)
 
 <!-- **Markdown generator**
 
