@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'm a student, electrical engineer, software developer, and data scientist!"
+title: "About me
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,8 @@ redirect_from:
 
 Hi! I'm Patrick : ) this is my website. It's (supposed to be) a collection of my work and own musings. Feel free to contact me if you're interested in anything I've done!
 
-Student
-======
+I'm currently a Student
+------
 I'm currently a senior at Rice University studying to obtain my B.S. in Electrical Engineering. I've had coursework in: Signal Processing, Circuits, Machine Learning, Robotics, Computer Architecture, Digital Logic Design, Electronic Materials, Device Physics, and all the standard math and science courses you'd except out of an engineering student!
 
 My favorite course was Linear Algebra : )
@@ -20,17 +20,17 @@ Second favorite? Probability and Statistics _probably_
 
 My interests
 ------
-1. Robotics: Motion Planning, Perception, Controls
-1. Data Science: Generative Models, Signal Processing, Machine Learning
-1. Software Development: Systems and Embedded
+1. **Robotics:** Motion Planning, Perception, Controls
+1. **Data Science:** Generative Models, Signal Processing, Machine Learning
+1. **Software Development:** Systems, Embedded, Computer Graphics
 
 Some tools and skills
 ------
-1. Programming Languages/Technologies: Python, C, C++, PySpark, PyTorch, Matlab, HTML, CSS, SQL, Google Cloud Platform, git, EAGLE
-1. Human Languages: English (native), Mandarin Chinese, and I took a tiny bit of Korean and Russian
-1. Other Software: Autodesk Inventor, Blender, Maya, Photoshop, Aseprite, Lightroom, Sony Vegas (The best video editor)
+1. **Programming Languages/Technologies:** Python, C, C++, PySpark, PyTorch, Matlab, HTML, CSS, SQL, Google Cloud Platform, git, EAGLE
+1. **Human Languages:** English (native), Mandarin Chinese, and I took a tiny bit of Korean and Russian
+1. **Other Software:** Autodesk Inventor, Blender, Maya, Photoshop, Aseprite, Lightroom, Sony Vegas (The best video editor)
 
-**Markdown generator**
+<!-- **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
@@ -44,4 +44,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

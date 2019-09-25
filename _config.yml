@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Patrick Han"
   avatar           : "profile.jpg"
-  bio              : "Electrical engineer, developer, photographer"
+  bio              : "B.S. Electrical Engineering @ Rice University"
   location         : "Houston"
-  employer         : "I'm a student at Rice University"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
