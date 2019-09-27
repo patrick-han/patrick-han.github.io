@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Patrick : ) this is my website. It's (supposed to be) a collection of my work and own musings. It's _mostly_ academic stuff but I might end up posting other random things from time to time. Feel free to contact me if you're interested in anything I've done!
 
-I'm currently a student
+Currently I am...
 ------
 I'm a senior at Rice University studying to obtain my B.S. in Electrical Engineering. I've had coursework in: Signal Processing, Circuits, Machine Learning, Robotics, Computer Architecture, Digital Logic Design, Electronic Materials, Device Physics, and all the standard math and science courses you'd except out of an engineering student!
 
