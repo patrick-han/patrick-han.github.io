@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Patrick : ) this is my website. It's (supposed to be) a collection of my work and own musings. It's _mostly_ academic stuff but I might end up posting other random things from time to time. Feel free to contact me if you're interested in anything I've done!
+Hi! I'm Patrick : ) this is my website. It's a collection of my work/thoughts. It's _mostly_ academic stuff but I might end up posting other random things from time to time. Feel free to contact me if you're interested in anything I've done!
 
 Currently I am...
 ------
@@ -16,13 +16,12 @@ I'm a senior at Rice University studying to obtain my B.S. in Electrical Enginee
 
 My favorite course was Linear Algebra : )
 
-Second favorite? Probability and Statistics _probably_
-
 My interests
 ------
 1. **Robotics:** Motion Planning, Perception, Controls
 1. **Data Science:** Generative Models, Signal Processing, Machine Learning
-1. **Software Development:** Systems, Embedded, Computer Graphics
+1. **Software Engineering:** Embedded Systems, Computer Graphics
+1. **Hardware:** PCBs
 
 Some tools and skills
 ------
@@ -32,7 +31,7 @@ Some tools and skills
 
 My dog
 ------
-![My dog](https://patrick-han.github.io/images/my_dog.jpg)
+![My dog](/images/my_dog.jpg)
 
 <!-- **Markdown generator**
 
