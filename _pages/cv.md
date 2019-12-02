@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Resumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,50 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+"Paper Copy": [Here](/files/Patrick_Han_Resume_grad.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Rice University, 2020 (Expected)
+* Coursework: Software Development, Machine Learning, Probability and Statistics, Digital Signal Processing, Embedded Systems, Robotics, FPGAs, Computer Architecture, Circuits
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* __Summer 2019: Data Science Intern @ Expero inc. in Austin, Texas__
+  * Quickly learned the PyTorch framework to write common deep learning models (GANs, FCNs)
+  * Developed 3 models to perform electromagnetic inversion, a nonlinear regression problem
+  * Achieved a promising structural convergence with a custom fully convolutional network
+  * Created Python scripts and Jupyter notebooks for data preprocessing and error analysis
+  * Utilized Google Cloud Platform Virtual Machines for expedited GPU model training
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* __Summer 2018: Software Engineering Intern @ Rice Networks Group in Houston, Texas__
+  * Developed autonomous drone network software for ML-based gas cloud localization
+  * Implemented an HTTP server for drone communication after learning networking fundamentals
+  * Wrote Python scripts to understand and utilize field data, presented findings at team meetings
+  * Coordinated 30+ live outdoor trials to search and track a wireless hotspot gas simulation
+
+
+Teaching Related
+=====
+* __Fall 2019: TA for ELEC 301: Signals, Systems, and Machine Learning__
+  * Held weekly homework help sessions for juniors taking the course
+  * Helped revamp homework assignments by giving feedback to professor and graduate TA
+  * Coordinated  and organized class final project (Kaggle Audio Classification Competition)
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* __Proficient:__ Python, PyTorch, Git, MATLAB, Linux Environments, Google Cloud Platform
+* __Intermediate:__ C, C++, EAGLE
+* __Working Knowledge:__ PySpark, SQL, HTML, CSS, Verilog, OMPL
 
-Publications
+Patents
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Utility Patent 9,708,785B1: _Portable flood control apparatus_
+
   
 Service and leadership
 ======
