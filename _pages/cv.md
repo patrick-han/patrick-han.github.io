@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-"Paper Copy": [Here](/files/Patrick_Han_Resume_grad.pdf)
+"Paper Copy": [Here](/files/Patrick_Han_Resume_grad.pdf) (Will be updated soon)
 
 Education
 ======
-* B.S. in Electrical Engineering, Rice University, 2020 (Expected)
+* M.S. in Electrical Engineering, UCLA, 2022 (Expected)
+* B.S. in Electrical Engineering, Rice University, 2020
 * Coursework: Software Development, Machine Learning, Probability and Statistics, Digital Signal Processing, Embedded Systems, Robotics, FPGAs, Computer Architecture, Circuits
 
 Work experience
@@ -35,6 +36,10 @@ Work experience
 
 Teaching Related
 =====
+* __Fall 2020: TA for ELEC 327: Digital Systems Laboratory__
+  * Held tri-weekly project help sessions for juniors taking the course
+  * Used lab equipment to help students test and debug devices
+
 * __Fall 2019: TA for ELEC 301: Signals, Systems, and Machine Learning__
   * Held weekly homework help sessions for juniors taking the course
   * Helped revamp homework assignments by giving feedback to professor and graduate TA
@@ -43,9 +48,9 @@ Teaching Related
   
 Skills
 ======
-* __Proficient:__ Python, PyTorch, Git, MATLAB, Linux Environments, Google Cloud Platform
-* __Intermediate:__ C, C++, EAGLE
-* __Working Knowledge:__ PySpark, SQL, HTML, CSS, Verilog, OMPL
+* **Programming Languages:** Python, C, C++, MATLAB
+* **Technologies/Tools:** PySpark, Pytorch, Google Cloud Platform, git, EAGLE
+* **Human Languages:** English (native), Mandarin Chinese (Conversational Fluency)
 
 Patents
 ======

@@ -8,26 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Patrick : ) this is my website. It's a collection of my work/thoughts. It's _mostly_ academic stuff but I might end up posting other random things from time to time. Feel free to contact me if you're interested in anything I've done!
+Hi! I'm Patrick : ) this is my website. It's a collection of my work/thoughts. It's _mostly_ academic stuff but I might end up posting other random things from time to time. Feel free to contact me if you're interested in anything I've done! At this point in my life I'm actively seeking internship and future full time opportunities!
 
 Currently I am...
 ------
-I'm a senior at Rice University studying to obtain my B.S. in Electrical Engineering. I've had coursework in: Signal Processing, Circuits, Machine Learning, Robotics, Computer Architecture, Digital Logic Design, Electronic Materials, Device Physics, and all the standard math and science courses you'd except out of an engineering student!
+An incoming graduate student at UCLA in the Electrical and Computer Engineering Department. I graduated from Rice University in May 2020 and obtained my B.S. in Electrical Engineering. I've had coursework in: Signal Processing, Circuits, Machine Learning, Robotics, Computer Architecture, Digital Logic Design, Electronic Materials, Device Physics, and all the standard math and science courses you'd expect out of an engineering student!
 
-My favorite course was Linear Algebra : )
+My favorite course was Linear Algebra.
+
+I'm currently interested in pursuing a career as a firmware engineer or some sort of engineering position involving embedded development. Industry-wise I'm very interested in space.
 
 My interests
 ------
 1. **Robotics:** Motion Planning, Perception, Controls
 1. **Data Science:** Generative Models, Signal Processing, Machine Learning
-1. **Software Engineering:** Embedded Systems, Computer Graphics
-1. **Hardware:** PCBs
+1. **Software Engineering and Development:** Embedded Systems, Computer Graphics
+1. **Hardware:** PCB design
 
 Some tools and skills
 ------
-1. **Programming Languages/Technologies:** Python, C, C++, PySpark, PyTorch, Matlab, HTML, CSS, SQL, Google Cloud Platform, git, EAGLE
-1. **Human Languages:** English (native), Mandarin Chinese, and I took a tiny bit of Korean and Russian
-1. **Other Software:** Autodesk Inventor, Blender, Maya, Photoshop, Aseprite, Lightroom, Sony Vegas (The best video editor)
+1. **Programming Languages:** Python, C, C++, MATLAB
+1. **Technologies/Tools:** PySpark, Pytorch, Google Cloud Platform, git, EAGLE
+1. **Human Languages:** English (native), Mandarin Chinese (Conversational Fluency), and I took a tiny bit of Korean and Russian in undergrad
+1. **Other Software:** Autodesk Inventor, Blender, Photoshop, Lightroom (I also am a hobby photographer)
+
+I'm comfortable with development on Windows/macOS/various Linux distributions and in shell environments.
 
 My dog
 ------
