@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Patrick : ) this is my website. It's a collection of my work/thoughts. It's _mostly_ academic stuff but I might end up posting other random things from time to time. Feel free to contact me if you're interested in anything I've done! At this point in my life I'm actively seeking internship and future full time opportunities!
+Hi! I'm Patrick : ) this is my website. It's a collection of my work/thoughts. It's _mostly_ academic stuff but I might end up posting other random things from time to time. Feel free to contact me if you're interested in anything I've done! At this point in my life I'm attending graduate school, but I'm always interested to learn about summer interships and full-time positions!
 
 Currently I am...
 ------
@@ -16,23 +16,15 @@ An incoming graduate student at UCLA in the Electrical and Computer Engineering 
 
 My favorite course was Linear Algebra.
 
-I'm currently interested in pursuing a career as a firmware engineer or some sort of engineering position involving embedded development. Industry-wise I'm very interested in space.
+I'm currently interested in pursuing a career as a firmware engineer or some sort of engineering position involving embedded/systems development. Industry-wise I'm especially interested in the aerospace sector, but I'm open to pretty much anything!
 
 My interests
 ------
 1. **Robotics:** Motion Planning, Perception, Controls
 1. **Data Science:** Generative Models, Signal Processing, Machine Learning
-1. **Software Engineering and Development:** Embedded Systems, Computer Graphics
+1. **Software Engineering and Development:** Embedded and Mission Critical Systems, Computer Graphics
 1. **Hardware:** PCB design
 
-Some tools and skills
-------
-1. **Programming Languages:** Python, C, C++, MATLAB
-1. **Technologies/Tools:** PySpark, Pytorch, Google Cloud Platform, git, EAGLE
-1. **Human Languages:** English (native), Mandarin Chinese (Conversational Fluency), and I took a tiny bit of Korean and Russian in undergrad
-1. **Other Software:** Autodesk Inventor, Blender, Photoshop, Lightroom (I also am a hobby photographer)
-
-I'm comfortable with development on Windows/macOS/various Linux distributions and in shell environments.
 
 My dog
 ------
