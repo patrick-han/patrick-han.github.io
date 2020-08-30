@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Patrick : ) this is my website. It's a collection of my work/thoughts. It's _mostly_ academic stuff but I might end up posting other random things from time to time. Feel free to contact me if you're interested in anything I've done! At this point in my life I'm attending graduate school, but I'm always interested to learn about summer interships and full-time positions!
+Hi! I'm Patrick : ) this is my personal website. It's a collection of my work/thoughts. Feel free to contact me if you're interested in anything I've done! At this point in my life I'm attending graduate school, but I'm always interested to learn about summer interships and full-time positions!
 
 Currently I am...
 ------
